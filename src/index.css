@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card {
+  max-width: 50%;
+  padding:70px;
+}
+input[type="submit"]{
+  background-color: lightblue;
+  border-radius: 3px;
+  padding:5px;
+}
+input[type="text"]{
+  border-radius: 3px;
+  padding:5px;
+}
+.form{
+  background-image: url('https://nordicapis.com/wp-content/uploads/How-to-Build-an-API-Driven-Weather-App.png');
+  border-image-width: 100%;
+  margin: 100px;
+  padding: 100px;
+  border-radius: 5px;
+
+}
+.half{
+  align-items: center;
+}
+.form1{
+  padding: 100px;
+}
+.text{
+ text-transform: uppercase;
+ text-decoration: solid;
+ text-shadow: coral;
+}
+.button{
+  padding: 50px;
+  border-radius: 3px;
+  border-style: solid;
+  box-shadow: 20px;
+  
+
+}
